@@ -1,4 +1,4 @@
-# prediction-of-COVID-19
+# Predictionof non-severe COVID-19
 iCov and isCov model for COVID-19 identification and feature selection based on blood indicators.
 <br>
 ### Training and testing of iCov model
