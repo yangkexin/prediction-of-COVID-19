@@ -1,11 +1,15 @@
 # Predictionof non-severe COVID-19
-iCov and isCov model for COVID-19 identification and feature selection based on blood indicators. The demo can be found at (http://120.79.18.249:4433/).
+iCov and isCov model for COVID-19 identification and feature selection based on blood indicators. The demo can be found at http://120.79.18.249:4433/.
 <br>
 ### Preprocess
-The models are developed in python. Please make sure the following tools have been installed:
+The models are developed in python3.6. Please make sure the following tools have been installed:
+* jupyter 1.0.0
+* pandas 1.0.0
+* xlrd 1.2.0
+* scikit-learn 0.23.2
+* imblearn latest
+* matpylotlib 3.3.2
 
-### Training and testing of iCov model
-The data processing, training, and testing code of iCov model can be found in iCov.ipynb, and the data format that we used in this pofile can be found in final_data.xlsx. If you need the complete data set, please contact zhangwei@wchscu.cn.
-<br>
-### Training and testing of isCov model
+### Training and testing of iCov and isCov
+The data processing, training, and testing code of iCov model can be found in iCov_isCov.ipynb, and the input file format that we used in this pofile can be found in final_data.xlsx. If you need the complete data set, please contact zhangwei@wchscu.cn.
 
